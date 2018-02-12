@@ -1,5 +1,6 @@
 """
 Graph Coloring
+Using DEAP, and following same general formatting as in their MaxOnes example
 February 6th, 2018
 """
 #variables
