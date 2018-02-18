@@ -1,8 +1,7 @@
-# -*- coding: utf-8 -*-
 """
-Created on Tue Feb 13 15:52:04 2018
-
-@author: bob
+Generate Erdos Renyi Graphs
+Anna Hughes Hoge
+February 6th, 2018
 """
 
 import networkx as nx
@@ -26,9 +25,3 @@ for i in np.arange(0, 5.5, 0.5):
         for edge in graph.edges():
             file.write(str(edge[0]) + " " + str(edge[1]) + "\n")
         file.close()
-
-#do evolution to find max fitness
-
-#plot degree of different files against max fitness achieved for that file
-
-#for each value of d with a valid coloring, do the neutrality thing
