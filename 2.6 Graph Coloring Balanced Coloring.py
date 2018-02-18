@@ -68,7 +68,7 @@ toolbox.register("population", tools.initRepeat, list, toolbox.individual)
 #FITNESS FUNCTION DEFINITION
 #the fitness function to be maximized
 def fitness_eval(individual):
-    """Returns ???"""
+    """Returns balanced coloring fitness function value, normalized to [0, 1]."""
     sum = 0
     for edge in graph.edges():
         node1 = int(edge[0])
