@@ -1,7 +1,7 @@
 """
-Graph Coloring Pichsurs
-Anna Hughes Hoge
-FEBRUARY 11th, 2018!!!  HAPPY 22nd BIRFDAY, NABOO!!!!!!!!!!  : )  : )  : )  : )  : )
+Graph Coloring Pictures
+Anna
+February 6th, 2018
 """
 #variables
 seed = 22
