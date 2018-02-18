@@ -1,4 +1,4 @@
-"""
+""" 
 Graph Coloring
 Using DEAP, and following same formatting as in their MaxOnes example
 February 6th, 2018
