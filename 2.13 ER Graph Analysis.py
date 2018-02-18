@@ -1,8 +1,7 @@
-# -*- coding: utf-8 -*-
 """
-Created on Tue Feb 13 20:05:37 2018
-
-@author: bob
+ER Graph Analysis
+Anna
+February 6th, 2018
 """
 #imports
 import glob
